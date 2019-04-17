@@ -1,4 +1,5 @@
 Xin chao
+<<<<<<< HEAD
 hello
 
 
@@ -19,3 +20,6 @@ Function of dev1
 Hello;
 hi;
 }
+=======
+hello
+>>>>>>> parent of 101b82a... update hello.txt
