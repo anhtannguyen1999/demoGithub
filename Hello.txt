@@ -1,6 +1,7 @@
 Xin chao
 hello
 
+
 my function
 {
 	hello moi nguoi;
@@ -9,4 +10,12 @@ my function
 Main function
 {
 	1235
+	aaaaaa
+}
+
+
+Function of dev1
+{
+Hello;
+hi;
 }
