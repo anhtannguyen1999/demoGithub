@@ -1,2 +1,12 @@
 Xin chao
 hello
+
+my function
+{
+	hello moi nguoi;
+}
+
+Main function
+{
+	1235
+}
