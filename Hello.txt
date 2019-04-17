@@ -9,6 +9,7 @@ Xin chao
 >>>>>>> parent of 7122ce5... Update Hello.txt
 hello
 
+
 my function
 {
 	hello moi nguoi;
@@ -17,7 +18,6 @@ my function
 Main function
 {
 	1235
-<<<<<<< HEAD
 	aaaaaa
 }
 
@@ -56,6 +56,3 @@ hello
 >>>>>>> parent of 2d432fe... Revert
 =======
 >>>>>>> parent of 81b0ef7... Update Hello.txt
-=======
-}
->>>>>>> parent of a7916eb... Merge branch 'Dev1'
