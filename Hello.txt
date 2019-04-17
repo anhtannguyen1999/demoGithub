@@ -5,9 +5,6 @@ Xin chao
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of ac80c6a... Update Hello.txt
 =======
 >>>>>>> parent of 7122ce5... Update Hello.txt
 hello
@@ -42,7 +39,6 @@ hello
 =======
 hello
 >>>>>>> parent of 1b0fd95... Update File Hello.txt
-<<<<<<< HEAD
 =======
 hello
 >>>>>>> parent of 101b82a... update hello.txt
@@ -53,7 +49,10 @@ hello
 =======
 }
 >>>>>>> parent of a7916eb... Merge branch 'Dev1'
+<<<<<<< HEAD
 =======
 >>>>>>> parent of ac80c6a... Update Hello.txt
 =======
 >>>>>>> parent of 2d432fe... Revert
+=======
+>>>>>>> parent of 81b0ef7... Update Hello.txt
