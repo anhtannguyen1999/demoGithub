@@ -1,2 +1,15 @@
 Xin chao
 hello
+
+Function of dev1
+{
+Hello;
+hi;
+
+
+}
+
+MainFunction
+{
+ aaaaaa
+}
