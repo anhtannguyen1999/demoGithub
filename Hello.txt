@@ -3,6 +3,7 @@ Xin chao
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 7122ce5... Update Hello.txt
 hello
@@ -37,3 +38,6 @@ hello
 =======
 hello
 >>>>>>> parent of 1b0fd95... Update File Hello.txt
+=======
+hello
+>>>>>>> parent of 101b82a... update hello.txt
